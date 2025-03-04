@@ -57,5 +57,5 @@ If you want to access data without authentication, modify Firebase **Realtime Da
 **This project is strictly for educational and cybersecurity awareness purposes.** Unauthorized use of this project for malicious activities is illegal and punishable under cyber laws. The author is not responsible for any misuse of this code.
 
 ## License
-This project is released under the **MIT License**.
+This project is released under the **Apache License 2.0**.
 
